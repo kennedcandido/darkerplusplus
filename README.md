@@ -26,7 +26,7 @@ Hammerfy is a hub that aims to install and manage updates, facilitate the manage
 
 If you enjoy Hammerfy, consider supporting us for the development of the project. Your support helps us continue developing this program even further 💜
 
-[![Donate](https://img.shields.io/badge/-💜%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://kenned-candido.github.io/linkzy/#donate-modal)
+[![Donate](https://img.shields.io/badge/-💜%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://kennedcandido.github.io/linkzy/#donate-modal)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5026db&height=100&section=footer"/>
 
