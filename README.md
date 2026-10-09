@@ -1,20 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be00be&height=85&section=header"/>
 
-<div align="right">
-    <a href="Readmes/Brazilian.md" target="_blank">
-        <img src="Readmes/images/flag_br.png" height="25" width="25">
-    </a>
-    <a href="Readmes/Spanish.md" target="_blank">
-        <img src="Readmes/images/flag_es.png" height="25" width="25">
-    </a>
-    <a href="Readmes/Hungarian.md" target="_blank">
-        <img src="Readmes/images/flag_hu.png" height="25" width="25">
-    </a>
-    <a href="Readmes/Russian.md" target="_blank">
-        <img src="Readmes/images/russian.png" height="25" width="25">
-    </a>
-</div>
-
 ###
 
 <img align="center" src="Readmes/images/title.png" alt="Darker++ icon" />
@@ -39,7 +24,7 @@ https://github.com/user-attachments/assets/1f2c9877-c3d8-48cc-af3a-67eddadee963
 
 If you enjoy Darker++, consider supporting us for the development of the project. Your support helps us continue developing this program even further ❤️
 
- [![Donate](https://img.shields.io/badge/-❤️%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
+ [![Donate](https://img.shields.io/badge/-❤️%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://kennedcandido.github.io/linkzy/#donate-modal)
 
 ##
 
